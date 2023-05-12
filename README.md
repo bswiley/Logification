@@ -29,7 +29,7 @@ The user needs to have Node.js installed and the dependencies js and inquirer in
 When the installation requirements are met, one merely needs to type "node index.js" to start to app and answer the questions.  The required logo will then be build in the "examples" folder (assuming the entire repository is cloned).  One example that is there now is [Square.svg](./examples/square.svg).
 
 ## Tests
-To test the classes that build the shapes one can run the [shapes.test.js](./lib/Shapes/shapes.test.js) in the  lib/Shapes folder. To run the tests use a CLI with Node.js installed and  Jest installed as a dependencie,  simply  type "npm run test".  The Package.json file should have the scripts that are required to make the test work correctly.
+To test the classes that build the shapes one can run the [shapes.test.js](./lib/Shapes/shapes.test.js) in the  ./lib/Shapes folder. To run the tests use a CLI with Node.js installed and  Jest installed as a dependencie,  simply  type "npm run test".  The Package.json file should have the scripts that are required to make the test work correctly.
 
 ## License
 This project has a/n MIT License
