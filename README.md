@@ -26,7 +26,8 @@ This project uses Node.js to build logos.  The user just has to answer a few que
 The user needs to have Node.js installed and the dependencies js and inquirer installed in  Node.js
 
 ## Usage
-When the installation requirements are met, one merely needs to type "node index.js" to start to app and answer the questions.  The required logo will then be build in the "examples" folder (assuming the entire repository is cloned).  One example that is there now is ![Square.svg](./examples/square.svg). Here is a [video](https://drive.google.com/file/d/1UA608TGSa_yhb_lI-vAUENx-lsB8rIGZ/view?usp=share_link) demonstrating how to use it and how it works.
+When the installation requirements are met, one merely needs to type "node index.js" to start to app and answer the questions.  The required logo will then be build in the "examples" folder (assuming the entire repository is cloned).  Here is one example of a possible logo: ![Square.svg](./examples/square.svg)  
+Here is a [video](https://drive.google.com/file/d/1UA608TGSa_yhb_lI-vAUENx-lsB8rIGZ/view?usp=share_link) demonstrating how to use it and how it works.
 
 ## Tests
 To test the classes that build the shapes one can run the "shapes.test.js" in the  "./lib/Shapes folder". To run the tests use a CLI with Node.js installed and  Jest installed as a dependencie,  simply  type "npm run test".  The Package.json file should have the scripts that are required to make the test work correctly. Here is a [video](https://drive.google.com/file/d/1yccwgxjyD4WKYDPSVzmHqg1A4LDn0IcU/view?usp=share_link) showing it passing the tests.
